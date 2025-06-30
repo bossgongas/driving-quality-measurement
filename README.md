@@ -32,10 +32,8 @@ Design and prototype a **low-cost embedded system** to evaluate the **quality of
 - `ES2324_Gonçalo_Measure_Quality_Driving_Report.pdf`  
   ⤷ Full project report with methodology, schematics, and implementation
 
-- `EngSist2324-Practical_assignment_evaluation.pdf`  
-  ⤷ Evaluation breakdown with system requirements and assessment criteria
-
-- *(optional: Arduino code, wiring diagrams, test data, video demo, etc.)*
+- `Updated_Risk_Assessment.xlsx`  
+  ⤷ Risk analysis and mitigation plan for the embedded system
 
 ---
 
@@ -48,17 +46,9 @@ Design and prototype a **low-cost embedded system** to evaluate the **quality of
 
 ---
 
-## 📱 How to Use
-
-1. Upload code to Arduino Uno
-2. Power device and connect via HC-05 Bluetooth to mobile app
-3. Start driving and observe events and scores in the terminal
-
----
-
 ## 👨‍🎓 Author
 
-- **Gonçalo Tavares Bastos** – Nº 2020238997  
+- **Gonçalo Tavares Bastos** – eusoudebastos@gmail.com
 📅 Submitted: June 2024
 
 ---
