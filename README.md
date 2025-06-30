@@ -19,6 +19,9 @@ Design and prototype a **low-cost embedded system** to evaluate the **quality of
 - **HC-05 Bluetooth Module**
 - Smartphone with **Serial Bluetooth Terminal** app (for data visualization)
 
+![image](https://github.com/user-attachments/assets/48ea4489-7567-46f3-8cb0-b54b0496b6f4)
+
+
 ### 📈 Main Features:
 - Detects **aggressive accelerations**, **harsh braking**, and **sharp turns**
 - Computes a **driving score** in real-time based on sensor data
